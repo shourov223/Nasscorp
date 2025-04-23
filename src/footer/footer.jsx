@@ -9,7 +9,7 @@ const Footer = () => {
         <>
             <footer className='py-[80px]'>
                 <div className="container">
-                    <div className='flex flex-col sm:flex-row gap-[100px] items-center justify-center'>
+                    <div className='flex flex-col sm:flex-row gap-[30px] lg:gap-[100px] justify-center'>
                         <div>
                             <h4 className='text-[24px] font-bold leading-[32px] pb-[25px]'>Get In Touch</h4>
                             <p className='text-[#737373] text-[14px] font-medium'>the quick fox jumps over the

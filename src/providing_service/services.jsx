@@ -20,7 +20,7 @@ const Services = () => {
                                 <img src={play_btn} alt={play_btn} />
                             </div>
                         </div>
-                        <div className='sm:flex md:pl-[40px] lg:pl-0'>
+                        <div className='md:pl-[40px] lg:pl-0'>
                             <div>
                                 <h2 className='font-bold text-[40px] pb-[10px] max-w-[330px]'>Most trusted in our field</h2>
                                 <p className='text-[14px] pb-[50px] max-w-[330px]'>Most calendars are designed for teams. Slate
